@@ -1,6 +1,3 @@
-# Titanic-ML-Learning-Journey
-A step-by-step learning journey through the Titanic dataset, focusing on feature engineering, modeling, and evaluation.
-
 # Titanic ML - A Detailed Learning Journey
 This repository documents a structured learning journey through the Titanic - Machine Learning from Disaster dataset on Kaggle. The primary focus is to understand the complete machine learning workflow, including data exploration, feature engineering, model selection, and evaluation.
 
